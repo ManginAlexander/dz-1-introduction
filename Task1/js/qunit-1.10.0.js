@@ -1,4 +1,4 @@
-/**
+﻿/**
  * QUnit v1.10.0 - A JavaScript Unit Testing Framework
  *
  * http://qunitjs.com

@@ -1,4 +1,4 @@
-﻿/*global alert: true*/
+/*global alert: true*/
 /**
  * Sort array, using Bubble's method
  *
